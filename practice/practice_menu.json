@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Tikka",
+    "price": 220.0,
+    "category": "starter",
+    "is_available": true,
+    "description": "Smoky cottage cheese cubes marinated in spices",
+    "added_by_email": "chef.ravi@spicehouse.com",
+    "date_added": "2025-01-12"
+  },
+  {
+    "id": 2,
+    "name": "Butter Chicken",
+    "price": 320.0,
+    "category": "main course",
+    "is_available": true,
+    "description": "Creamy tomato based chicken curry",
+    "added_by_email": "chef.ravi@spicehouse.com",
+    "date_added": "2025-01-12"
+  },
+  {
+    "id": 3,
+    "name": "Dal Makhani",
+    "price": 180.0,
+    "category": "main course",
+    "is_available": true,
+    "description": "Slow cooked black lentils in butter and cream",
+    "added_by_email": "chef.meera@spicehouse.com",
+    "date_added": "2025-02-03"
+  },
+  {
+    "id": 4,
+    "name": "Masala Chai",
+    "price": 30.0,
+    "category": "beverage",
+    "is_available": true,
+    "description": "Spiced Indian tea",
+    "added_by_email": "chef.meera@spicehouse.com",
+    "date_added": "2025-02-03"
+  },
+  {
+    "id": 5,
+    "name": "Gulab Jamun",
+    "price": 60.0,
+    "category": "dessert",
+    "is_available": true,
+    "description": "Fried milk solids soaked in sugar syrup",
+    "added_by_email": "chef.anita@spicehouse.com",
+    "date_added": "2025-02-20"
+  },
+  {
+    "id": 6,
+    "name": "Veg Biryani",
+    "price": -150.0,
+    "category": "main course",
+    "is_available": true,
+    "description": "BROKEN: negative price, will fail gt=0",
+    "added_by_email": "chef.ravi@spicehouse.com",
+    "date_added": "2025-03-01"
+  },
+  {
+    "id": 7,
+    "name": "CB",
+    "price": 90.0,
+    "category": "starter",
+    "is_available": true,
+    "description": "BROKEN: name too short, will fail min_length=3",
+    "added_by_email": "chef.anita@spicehouse.com",
+    "date_added": "2025-03-05"
+  },
+  {
+    "id": 8,
+    "name": "Cold Coffee",
+    "price": "fifty",
+    "category": "beverage",
+    "is_available": true,
+    "description": "BROKEN: price is a string, will fail type coercion",
+    "added_by_email": "chef.meera@spicehouse.com",
+    "date_added": "2025-03-10"
+  },
+  {
+    "id": 9,
+    "name": "Samosa",
+    "price": 25.0,
+    "category": "snacks",
+    "is_available": true,
+    "description": "Crispy fried pastry with spiced potato filling",
+    "added_by_email": "chef.ravi@spicehouse.com",
+    "date_added": "2025-03-15"
+  },
+  {
+    "id": 10,
+    "name": "Rasgulla",
+    "price": 70.0,
+    "category": "dessert",
+    "is_available": false,
+    "description": "Soft spongy balls in light sugar syrup",
+    "added_by_email": "chef.anita@spicehouse.com",
+    "date_added": "2025-03-18"
+  },
+  {
+    "id": 11,
+    "name": "Chicken Momos",
+    "price": 150.0,
+    "category": "starter",
+    "is_available": true,
+    "description": "BROKEN: invalid email format, will fail EmailStr validation",
+    "added_by_email": "chef.ravi.at.spicehouse.com",
+    "date_added": "2025-03-20"
+  },
+  {
+    "id": 12,
+    "name": "Kulfi",
+    "price": 80.0,
+    "category": "dessert",
+    "is_available": true,
+    "description": "BROKEN: date not in ISO format, will fail date parsing",
+    "added_by_email": "chef.meera@spicehouse.com",
+    "date_added": "20-03-2025"
+  }
+]

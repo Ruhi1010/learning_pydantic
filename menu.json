@@ -78,6 +78,22 @@
         "category" : "Main Course",
         "is_available" : true,
         "description" : "A delicious burger with a juicy beef patty, lettuce, tomato, and special sauce."
+    },
+    {
+        "id" : 11,
+        "name" : "Veggie Pizza",
+        "price" : 199.0,
+        "category" : "Main Course",
+        "is_available" : true,
+        "description" : "A classic pizza topped with fresh vegetables and mozzarella cheese."
+    },
+    {
+        "id" : 12,
+        "name" : "Mango Lassi",
+        "price" : 129.0,
+        "category" : "Beverage",
+        "is_available" : true,
+        "description" : "A refreshing yogurt-based drink blended with ripe mangoes."
     }
 
 ]
