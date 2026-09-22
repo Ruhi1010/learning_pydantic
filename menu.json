@@ -1,0 +1,83 @@
+[
+    {
+        "id" : 1,
+        "name" : "Chicken Biryani",
+        "price" : 129.0,
+        "category" : "Main Course",
+        "is_available" : true,
+        "description" : "A flavorful rice dish with tender chicken and aromatic spices."
+    },
+    {
+        "id" : 2,
+        "name" : "Paneer Tikka",
+        "price" : 199.0,
+        "category" : "Appetizer",
+        "is_available" : true,
+        "description" : "Grilled cubes of paneer marinated in spices, served with mint chutney."
+    },
+    {
+        "id" : 3,
+        "name" : "Rosogolla",
+        "price" : 99.0,
+        "category" : "Dessert",
+        "is_available" : false,
+        "description" : "Soft and spongy milk-based dumplings soaked in sugar syrup."
+    },
+    {
+        "id" : 4,
+        "name" : "Beef Steak",
+        "price" : 1599.0,
+        "category" : "Main Course",
+        "is_available" : true,
+        "description" : "Juicy grilled beef steak served with a side of vegetables."
+    },
+    {
+        "id" : 5,
+        "name" : "Caesar Salad",
+        "price" : 299.0,
+        "category" : "Appetizer",
+        "is_available" : true,
+        "description" : "Crisp romaine lettuce tossed with Caesar dressing, croutons, and Parmesan cheese."
+    },
+    {
+        "id" : 6,
+        "name" : "Chocolate Lava Cake",
+        "price" : 249.0,
+        "category" : "Dessert",
+        "is_available" : true,
+        "description" : "Warm chocolate cake with a gooey molten center, served with vanilla ice cream."
+    },
+    {
+        "id" : 7,
+        "name" : "Grilled Salmon",
+        "price" : 899.0,
+        "category" : "Main Course",
+        "is_available" : true,
+        "description" : "Fresh salmon fillet grilled to perfection, served with lemon butter sauce."
+    },
+    {
+        "id" : 8,
+        "name" : "Spring Rolls",
+        "price" : 149.0,
+        "category" : "Appetizer",
+        "is_available" : false,
+        "description" : "Crispy rolls filled with vegetables and served with sweet chili sauce."
+    },
+    {
+        "id" : 9,
+        "name" : "Tiramisu",
+        "price" : 299.0,
+        "category" : "Dessert",
+        "is_available" : true,
+        "description" : "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cream."
+    },
+    {
+        "id" : 10,
+        "name" : "Beef Peti Burger",
+        "price" : 199.0,
+        "category" : "Main Course",
+        "is_available" : true,
+        "description" : "A delicious burger with a juicy beef patty, lettuce, tomato, and special sauce."
+    }
+
+]
